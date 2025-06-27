@@ -30,10 +30,3 @@
 
 - 📧 [yairk1998@gmail.com](mailto:yairk1998@gmail.com)
 - 🌍 [LinkedIn](https://www.linkedin.com/in/yair-krothamer-8b0448230)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yairkr13&show_icons=true&theme=tokyonight" />
-</p>
