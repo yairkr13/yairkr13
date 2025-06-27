@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yair Krothamer</h1>
+<h1 align="center">Hey there 👋, I'm Yair Krothamer</h1>
 
 <p align="center">
   Full Stack Developer in Training • B.Sc. Computer Science Student • Passionate about clean code and meaningful impact
