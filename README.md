@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yair Krothamer</h1>
 
-<!--
-**yairkr13/yairkr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full Stack Developer in Training • B.Sc. Computer Science Student • Passionate about clean code and meaningful impact
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎓 About Me
+
+- 🎓 3rd-year CS student at Hadassah College (Graduating 2026)
+- 🛠️ Working with C++, Python, JavaScript, HTML, React, SQL
+- 🧪 Gained hands-on experience in automation (Selenium, Jenkins, Docker)
+- 🎮 Built a C++ game with SFML and collision detection algorithms
+- 💬 Always learning — currently improving my C# and backend skills
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎮 C++ SFML Game](https://github.com/yairkr13/your-game-link) | OOP game with collision detection and real-time mechanics | C++, SFML |
+| [💬 Chatroom Web App](https://github.com/yairkr13/your-chat-app-link) | Real-time chat with login/authentication, built with Express | JS, HTML, Node.js |
+| [🧪 Test Automation](https://github.com/yairkr13/your-testing-project-link) | Selenium POM-based tests with CI via Jenkins/Docker | Java, Selenium |
+
+---
+
+### 📫 Contact Me
+
+- 📧 [yairk1998@gmail.com](mailto:yairk1998@gmail.com)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/yair-krothamer-8b0448230)
+
+---
+
+### 📈 GitHub Stats (Optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yairkr13&show_icons=true&theme=tokyonight" />
+</p>
