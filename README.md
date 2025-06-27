@@ -21,7 +21,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎮 C++ SFML Game](https://github.com/yairkr13/SFML-project) | OOP game with collision detection and real-time mechanics | C++, SFML |
-| [💬 Chatroom Web App](https://github.com/yairkr13/ChatRoom) | Real-time chat with login/authentication, built with Express | JS, HTML, Node.js |
+| [💬 Chatroom Web App](https://github.com/yairkr13/ChatRoom-app) | Real-time chat with login/authentication, built with Express | JS, HTML, Node.js |
 | [🧪 Test Automation](https://github.com/yairkr13/your-testing-project-link) | Selenium POM-based tests with CI via Jenkins/Docker | Java, Selenium |
 
 ---
