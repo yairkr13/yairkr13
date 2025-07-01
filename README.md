@@ -10,7 +10,7 @@
 
 - 🎓 3rd-year CS student at Hadassah College (Graduating 2026)
 - 🛠️ Working with C++, Python, JavaScript, Java, HTML, React, SQL
-- 🧪 Gained hands-on experience in automation (Selenium, Jenkins, Docker)
+- 🧪 Developed a complete test automation framework using Selenium, TestNG, Docker & Appium — including CI integration and full POM architecture
 - 🎮 Built a C++ game with SFML and collision detection algorithms
 - 💬 Always learning - currently improving my C# and backend skills
 
