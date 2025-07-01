@@ -22,7 +22,9 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎮 Pick Up Sticks Game](https://github.com/yairkr13/oop2-pick-up-sticks-game) | SFML-based logic game with collision detection and pickup rules | C++, SFML, OOP |
+| [🎯 SFML Platformer](https://github.com/yairkr13/sfml-game) | Side-scroller platformer demo with sprite animation and input handling | C++, SFML |
 | [📊 Distributed Log Analyzer](https://github.com/yairkr13/java-distributed-log-analyzer) | Multi-threaded log parser with anomaly detection and JSON reports | Java, Threads, File I/O |
+| [🚀 NASA API Frontend](https://github.com/yairkr13/nasa-api-frontend) | UI to display data from NASA’s public APIs with async fetch & DOM rendering | JavaScript, HTML, CSS |
 | [💬 Realtime Chatroom](https://github.com/yairkr13/realtime-chatroom-js) | Web-based chat app with socket communication and user auth | JavaScript, Node.js |
 | [☀️ Weather App](https://github.com/yairkr13/react-weather-app) | React app displaying weather forecasts via external API | React, REST API |
 | [🧪 Test Automation Framework](https://github.com/yairkr13/qa-automation-selenium) | Selenium-based test suite with POM, Docker & CI integration | Java, Selenium, Docker |
