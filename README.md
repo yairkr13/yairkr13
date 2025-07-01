@@ -1,29 +1,31 @@
 <h1 align="center">Hey there 👋, I'm Yair Krothamer</h1>
 
 <p align="center">
-  Full Stack Developer in Training • B.Sc. Computer Science Student • Passionate about clean code and meaningful impact
+  Full Stack Developer in Training • B.Sc. Computer Science Student • Passionate about clean code and creative problem solving
 </p>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-- 🎓 3rd-year CS student at Hadassah College (Graduating 2026)
-- 🛠️ Working with C++, Python, JavaScript, Java, HTML, React, SQL
-- 🧪 Built a Selenium-based test automation framework with TestNG, Docker & Appium (CI-ready, POM architecture)
-- 🎮 Built a C++ game with SFML and collision detection algorithms
-- 💬 Always learning - currently improving my C# and backend skills
+- 🎓 3rd-year Computer Science student at Hadassah College (Graduation: 2026)
+- 🧰 Experienced with C++, Python, Java, JavaScript, HTML, React, SQL
+- 🧪 Built a full-featured Selenium test automation framework (POM, CI-ready with Docker & Jenkins)
+- 🎮 Developed algorithmic desktop games in C++ using SFML and smart memory management
+- ☁️ Familiar with REST APIs, file parsing, and real-time systems
+- 🔧 Constantly improving my skills and building side projects to grow
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎮 C++ SFML Game](https://github.com/yairkr13/SFML-project) | OOP game with collision detection and real-time mechanics | C++, SFML |
-| [💬 Chatroom Web App](https://github.com/yairkr13/ChatRoom-app) | Real-time chat with login/authentication, built with Express | JavaScript, HTML, Node.js |
-| [📊 Log Analyzer](https://github.com/yairkr13/Java-project) | Multithreaded log analysis with design patterns and JSON output | Java, OOP, Threads |
-| [🧪 Test Automation](https://github.com/yairkr13/automation-project) | Selenium POM-based tests with CI via Jenkins/Docker | Java, Selenium |
+| [🎮 Pick Up Sticks Game](https://github.com/yairkr13/oop2-pick-up-sticks-game) | SFML-based logic game with collision detection and pickup rules | C++, SFML, OOP |
+| [📊 Distributed Log Analyzer](https://github.com/yairkr13/java-distributed-log-analyzer) | Multi-threaded log parser with anomaly detection and JSON reports | Java, Threads, File I/O |
+| [💬 Realtime Chatroom](https://github.com/yairkr13/realtime-chatroom-js) | Web-based chat app with socket communication and user auth | JavaScript, Node.js |
+| [☀️ Weather App](https://github.com/yairkr13/react-weather-app) | React app displaying weather forecasts via external API | React, REST API |
+| [🧪 Test Automation Framework](https://github.com/yairkr13/qa-automation-selenium) | Selenium-based test suite with POM, Docker & CI integration | Java, Selenium, Docker |
 
 ---
 
