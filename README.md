@@ -23,7 +23,7 @@
 | [🎮 C++ SFML Game](https://github.com/yairkr13/SFML-project) | OOP game with collision detection and real-time mechanics | C++, SFML |
 | [💬 Chatroom Web App](https://github.com/yairkr13/ChatRoom-app) | Real-time chat with login/authentication, built with Express | JavaScript, HTML, Node.js |
 | [📊 Log Analyzer](https://github.com/yairkr13/Java-project) | Multithreaded log analysis with design patterns and JSON output | Java, OOP, Threads |
-| [🧪 Test Automation](https://github.com/yairkr13/your-testing-project-link) | Selenium POM-based tests with CI via Jenkins/Docker | Java, Selenium |
+| [🧪 Test Automation](https://github.com/yairkr13/automation-project) | Selenium POM-based tests with CI via Jenkins/Docker | Java, Selenium |
 
 ---
 
