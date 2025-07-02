@@ -31,6 +31,11 @@
 
 ---
 
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&extension=activity)
+
+---
+
 ### 📫 Contact Me
 
 - 📧 [yairk1998@gmail.com](mailto:yairk1998@gmail.com)
