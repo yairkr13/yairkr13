@@ -32,7 +32,12 @@
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/yairkr13?theme=dark&font=baloo&extension=activity)
+
+<div align="center">
+
+  <img src="https://leetcard.jacoblin.cool/yairkr13?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+
+</div>
 
 ---
 
