@@ -8,12 +8,14 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 3rd-year Computer Science student at Hadassah College (Graduation: 2026)
-- 🧰 Experienced with C++, Python, Java, JavaScript, HTML, React, SQL
-- 🧪 Built a full-featured Selenium test automation framework (POM, CI-ready with Docker & Jenkins)
-- 🎮 Developed algorithmic desktop games in C++ using SFML and smart memory management
-- ☁️ Familiar with REST APIs, file parsing, and real-time systems
-- 🔧 Constantly improving my skills and building side projects to grow
+- 🎓 3rd-year Computer Science student at Hadassah College (Graduation: 2026)  
+- 💻 Passionate about **Full Stack Development**, combining modern frontend frameworks with scalable backend solutions  
+- 🧰 Experienced with C++, Python, Java, JavaScript, HTML, React, Spring Boot, SQL  
+- 🧪 Built a full-featured Selenium test automation framework (POM, CI-ready with Docker & Jenkins)  
+- 🎮 Developed algorithmic desktop games in C++ using SFML and smart memory management  
+- ☁️ Familiar with REST APIs, file parsing, and real-time systems  
+- 🤝 Strong teamwork skills from military service and collaborative projects  
+- 🚀 Fast learner, passionate about clean code and creative problem solving  
 
 ---
 
