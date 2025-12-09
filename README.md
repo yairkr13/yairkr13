@@ -23,6 +23,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🛠️ ServiceMatch](https://github.com/yairkr13/servicematch-springboot-thymeleaf) | Full-stack service marketplace connecting seekers & providers with role-based dashboards, proposals, reviews & AI integration | Spring Boot, Thymeleaf, MySQL, Spring Security |
 | [🕹️ Word Guessing Game](https://github.com/yairkr13/word-game-react-spring) | Single-page Hangman + Wordle style game with leaderboard & admin panel | React, Spring Boot, REST API |
 | [🎮 Pick Up Sticks Game](https://github.com/yairkr13/oop2-pick-up-sticks-game) | SFML-based logic game with collision detection and pickup rules | C++, SFML, OOP |
 | [🎯 SFML Platformer](https://github.com/yairkr13/sfml-game) | Side-scroller platformer demo with sprite animation and input handling | C++, SFML |
